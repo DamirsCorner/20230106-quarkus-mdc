@@ -1,0 +1,4 @@
+GET http://localhost:8080/hello
+###
+GET http://localhost:8080/hello
+X-Request-Id: e7db453d-0851-4d17-83e9-c9c5873e05f8
